@@ -15,4 +15,4 @@ name = "test"
 path = "src/lib.rs"
 
 [dependencies]
-embedded-hal = "0.2.6"
+embedded-hal = "1.0.0"
